@@ -39,8 +39,5 @@
 * If you have any problems running the app, please feel free to open an issue on the GitHub repo.
 
 
-I hope this is what you were looking for!
-
-
 ## Example Response
 ![Alt text](misc/mvp_output.png?raw=true)
