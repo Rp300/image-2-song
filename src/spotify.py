@@ -4,8 +4,8 @@ import json
 from base64 import b64encode
 
 # Define your Spotify API credentials
-CLIENT_ID = '2a6f07fb9aa04d43bfac2bdb38bdde05'
-CLIENT_SECRET = '241f67e4fbc14bfeaababe4f1addfd98'
+CLIENT_ID = st.secrets["SPOTIFY_CLIENT_ID"]
+CLIENT_SECRET = st.secrets["SPOTIFY_CLIENT_SECRET"]
 
 # Wrapper function
 def generate_song_suggestions(songs):
