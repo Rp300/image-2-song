@@ -4,18 +4,15 @@
 
 1. Clone the repo:
     
-        ```git clone https://github.com/Rp300/image-2-song
-    ```
+        ```git clone https://github.com/Rp300/image-2-song```
 
 2. Navigate to the directory of the repo:
     
-        ```cd image-2-song
-    ```
+        ```cd image-2-song```
 
 3. Download the packages from the requirements.txt file:
     
-        ```pip install -r requirements.txt
-    ```
+        ```pip install -r requirements.txt```
 
 4. Run the app by executing:
     
