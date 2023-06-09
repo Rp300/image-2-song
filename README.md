@@ -1,3 +1,3 @@
 # image-2-song
 
-! [screenshot](misc/mvp_output.png)
+![Alt text](misc/mvp_output.png?raw=true)
